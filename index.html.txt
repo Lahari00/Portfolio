@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Lahari Portfolio</title>
+   <link rel="stylesheet" href="C:\Users\STUDENT.DESKTOP-6V85MD8\Desktop\style1.css">
+ </head>
+<body>
+   <div class="fdiv">
+   <h3>xxxx</h3>
+   <h1 style="font-size:3vw"> Hi,<h1>
+   <div class="sameline">
+   <h1 style="font-size:3vw">I'am </h1>
+   <h1 class="first">xxx</h1>
+   </div>
+   <a href="https://www.linkedin.com/in/b-lahari-157b97241/"> <img src="C:\Users\B LAHARI\Downloads\in3.png" style="max-width:2%;height:2%;" > </a>
+   <a href="mailto:blahari16@gmail.com"> <img src="C:\Users\B LAHARI\Downloads\mail (1).png"  style="max-width:2%;height:2%;"></a>
+   </div>
+   <div class="sdiv">
+     
+   <h4 class="second">About</h4>
+   <h4 >I'am Lahari</h4>
+   <p>Hello , I am xxx. Currently pursuing B.Tech Vasavi College of Engineering, Hyderabad in CSE. I am learning web development and participating in Competetive Programming.</p>
+   </div>
+   <div class="tdiv">
+     <div class="gn">
+     <h4 >Experience</h4>
+       </div>
+     <h4> yyyyyyy</h4>
+     <h5>Frontend Engineering Intern  [Jun 2022 - Aug 2022]</h5>
+     <ul>
+      <li>Helping team with Restructuring the website using NextJS and StoryBooks by following AtomicDesign Principles.</li>
+      <li>Adding functionalities for the components and Subcomponents.</li>
+      <li>Fixing bugs for rendering issues and making UI compatible with all displays.</li>
+     </ul>
+   </div>
+   <div class="fdiv">
+      <h4>Projects</h4>
+        
+   </div>
+ </body>
+</html>

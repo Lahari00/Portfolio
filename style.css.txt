@@ -1,0 +1,31 @@
+.first{
+   color:blue;
+   font-size:3vw;
+   
+}
+.sameline{
+  display:flex;
+  gap:2%;
+
+
+}
+body{
+  position:relative;
+  left:8%;
+  right:8%;
+width: fit-content;
+}
+html{
+width: fit-content;
+}
+.fdiv{
+  position:relative;
+  
+  
+}
+.sdiv{
+text-align: center;
+}
+.gn{
+  text-align: center;
+}
